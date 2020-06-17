@@ -1,11 +1,11 @@
 {
-  "name": "imagekitio-angular",
-  "version": "1.0.0",
+  "name": "angularsdk-testing",
+  "version": "1.0.2",
   "author": "ImageKit",
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "imagekit-javascript": "^1.0.4"
+    "ik-js-testing": "^1.0.4"
   },
   "ngPackage": {
     "$schema": "./node_modules/ng-packagr/ng-package.schema.json",

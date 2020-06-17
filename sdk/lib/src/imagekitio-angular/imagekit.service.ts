@@ -1,6 +1,6 @@
 import { Injectable } from "@angular/core";
 // import ImageKit from "imagekit-javascript";
-const ImageKit = require("imagekit-javascript");
+const ImageKit = require("ik-js-testing");
 // When SDK is built and packed, the path of this file changes, hence static path cannot work
 // const pjson = require("../../package.json");
 const SDK_VERSION = '1.0.0';
